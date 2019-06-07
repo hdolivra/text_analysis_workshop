@@ -158,3 +158,51 @@
 [NotebookApp | CRITICAL] Shutdown confirmed
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | INFO] Kernel shutdown: 141ce078-dcc9-4517-8238-e0177763b7fe
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/johnmclevey/Desktop/text_analysis_workshop
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=dfd62d8ff4aa0f78267f8d4301149bd4f9f02d8db40f49e5
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=dfd62d8ff4aa0f78267f8d4301149bd4f9f02d8db40f49e5
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /api/kernels/141ce078-dcc9-4517-8238-e0177763b7fe/channels?session_id=4d5cc09191bb763d59140ad35c92c606&token=a49bb8c535b4ac974511cb9bb6dd0def2b23dcf36fe1ebc2 (::1): Kernel does not exist: 141ce078-dcc9-4517-8238-e0177763b7fe
+[NotebookApp | WARNING] 404 GET /api/kernels/141ce078-dcc9-4517-8238-e0177763b7fe/channels?session_id=4d5cc09191bb763d59140ad35c92c606&token=a49bb8c535b4ac974511cb9bb6dd0def2b23dcf36fe1ebc2 (::1) 50.79ms referer=None
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] interrupted
+[NotebookApp | INFO] Kernel started: f4be8669-b2f8-4004-916b-a0a220af8160
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f4be8669-b2f8-4004-916b-a0a220af8160
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/johnmclevey/Desktop/sort/text_analysis_workshop
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=aeb78836c27892e8de1eb90b154e7874f95f89ab47efb954
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=aeb78836c27892e8de1eb90b154e7874f95f89ab47efb954
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Kernel started: dc676028-153b-489f-b54f-18c283c20387
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dc676028-153b-489f-b54f-18c283c20387
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dc676028-153b-489f-b54f-18c283c20387
+[NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
+[NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
+[NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
+[NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
+[NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
+[NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: dc676028-153b-489f-b54f-18c283c20387
