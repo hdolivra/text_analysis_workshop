@@ -1,0 +1,15 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/johnmclevey/Desktop/text_analysis_workshop
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=8fd55249bfb3ab8bfd2f6091f2eab8c7bf5e92cf45a734fd
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=8fd55249bfb3ab8bfd2f6091f2eab8c7bf5e92cf45a734fd
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] 302 GET /tree (::1) 0.98ms
+[NotebookApp | WARNING] 401 POST /login?next=%2Ftree (::1) 1.96ms referer=http://localhost:8888/login?next=%2Ftree
