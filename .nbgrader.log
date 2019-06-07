@@ -130,3 +130,31 @@
 [NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
 [NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
 [NotebookApp | INFO] Starting buffering for 48a0c706-15ca-464f-a4bf-331e1574b266:f86e5bcc898c4cf7ad1b22bb5d71581c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/johnmclevey/Desktop/text_analysis_workshop
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=a49bb8c535b4ac974511cb9bb6dd0def2b23dcf36fe1ebc2
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=a49bb8c535b4ac974511cb9bb6dd0def2b23dcf36fe1ebc2
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /api/contents/atmodel_tutorial.ipynb?content=0&1559938156022 (::1): No such file or directory: atmodel_tutorial.ipynb
+[NotebookApp | WARNING] No such file or directory: atmodel_tutorial.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/atmodel_tutorial.ipynb?content=0&1559938156022 (::1) 1.37ms referer=http://localhost:8889/lab/tree/text_analysis_1.ipynb
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Kernel started: 141ce078-dcc9-4517-8238-e0177763b7fe
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 141ce078-dcc9-4517-8238-e0177763b7fe
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 141ce078-dcc9-4517-8238-e0177763b7fe
+[NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
+[NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
+[NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
+[NotebookApp | INFO] Saving file at /text_analysis_1.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 141ce078-dcc9-4517-8238-e0177763b7fe
